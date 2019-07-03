@@ -1,3 +1,4 @@
+/*
 package cn.rjgc.robot.test;
 
 import android.util.Log;
@@ -8,9 +9,11 @@ import org.junit.runners.JUnit4;
 
 import cn.rjgc.robot.utils.HttpUtils;
 
+*/
 /**
  * Created by Don on 2016/8/5.
- */
+ *//*
+
 @RunWith(JUnit4.class)
 public class TestHttpUtils {
     @Test
@@ -23,3 +26,4 @@ public class TestHttpUtils {
         Log.e("TAG",s);
     }
 }
+*/
